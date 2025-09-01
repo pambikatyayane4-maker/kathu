@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Introduction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f8fb;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        .intro {
+            max-width: 600px;
+            margin: 50px auto;
+            background: #ffffff;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+        }
+        p {
+            line-height: 1.6;
+            font-size: 1.1em;
+        }
+    </style>
+</head>'
+<body>
+    <div class="intro">
+        <h1>My Introduction</h1>
+        <p>Hello! 👋 My name is <strong>[Your Name]</strong>.  
+        I am passionate about <strong>[your field or interest]</strong>.  
+        I enjoy learning new skills, solving problems, and creating meaningful projects.</p>
+
+        <p>Some of my hobbies include: <br>
+        🌱 Exploring nature <br>
+        💻 Programming <br>
+        📚 Reading <br>
+        🎶 Listening to music</p>
+
+        <p>Thank you for visiting my page!</p>
+    </div>
+</body>
+</html>
